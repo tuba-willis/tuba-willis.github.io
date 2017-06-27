@@ -8,9 +8,9 @@ permalink: /systems/
 	<p>
 		An emergency communication system (ECS) is any system (typically, computer-based) that is organized for the primary purpose of supporting one-way and two-way communication of emergency messages between both individuals and groups of individuals.
 	</p>
-	<img src="{{ '/assets/img/ecs.jpeg' | prepend: site.baseurl }}" alt="emergency communication system (ECS)">
+	<img src="{{ '/assets/img/ecs.jpg' | prepend: site.baseurl }}" alt="">
  <h2> Problem</h2>
- <img src="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}" alt=""> 
+ <img src="{{ '/assets/img/howorks.jpg' | prepend: site.baseurl }}" alt=""> 
   <p>
 Natural or manmade disasters reveal the fragile nature of our social infrastructures, including our most advanced technologies, and require us to draw upon our own essential resourcefulness. Given the destruction or significant compromising of basic civic infrastructures "electrical power, water and sewage, natural gas, roadways and communications systems" individual and local capacities as well as external supports at every level must be prepared and effectively implemented to ensure personal and collective survival and wellbeing.
   </p>
