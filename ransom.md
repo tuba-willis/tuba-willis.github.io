@@ -2,13 +2,9 @@
 title: 'M17 CS 506 Contemporary issues in computing'
 author: Williams
 layout: post
-dsq_thread_id:
-  - 1681486643
-categories:
-  - Tech
 ---
 <!--more-->
-<h1>Protect against ransomware</h1>
+<h3>Protect against ransomware</h3>
 
 An organization can take immediate steps to protect against ransomware variants.
 
