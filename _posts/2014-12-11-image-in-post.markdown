@@ -16,7 +16,7 @@ said their prototype was meant to show how cryptography could be “used to moun
 attacks that cause loss of access to information, loss of confidentiality, and information leakage,
 tasks which cryptography typically prevents.” Young and Yung presented a proof-of-concept
 cryptovirus for the Apple Macintosh SE/30 using RSA and TEA asymmetric block ciphers.
-<img class="aligncenter" src="/images/history.jpg" >
+<img src="{{ '/assets/img/history.jpg' | prepend: site.baseurl }}" alt="">
 
 ### How Ransomware Works
 There are six steps that ransomware generally uses to accomplish its goals. 
@@ -50,4 +50,4 @@ then encrypting and renaming the files after a successful encryption.
 <li>The sixth and final step is the ransom demand, typically through taking over the screen of the
 infected endpoint and demanding payment.</li> 
 </ol>
-<img class="aligncenter" src="/images/howorks.jpg" >
+<img src="{{ '/assets/img/howorks.jpg' | prepend: site.baseurl }}" alt="">
