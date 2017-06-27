@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The genesis and nature of  ransomware attack"
-date:   2014-12-11
+date:   2017-05-17
 ---
 
 <p class="intro">
