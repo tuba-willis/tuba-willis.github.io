@@ -1,5 +1,5 @@
-title: M17 CS 506 Contemporary issues in computing
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+title: M17 CS 506 Contemporary issues in computing...
+description: Hello, I am TUSIIME B WILLIAMS(MAY17/COMP/005U), a Masters student at UTAMU, Uganda .
 
 url: http://brianmaierjr.github.com/long-haul
 baseurl: ""
@@ -20,9 +20,10 @@ navigation:
    url: /contact
 
 social:
-   github: brianmaierjr
-   twitter: brianmaierjr
-   facebook: brianmaierjr
-   email: brimaidesigns@gmail.com
+   github: tuba-willis
+   twitter: tubawillis
+   facebook: 
+   linkedin: Tusiime B Williams
+   email: tubawillis@gmail.com
 
 google_analytics: "UA-58263416-1"
