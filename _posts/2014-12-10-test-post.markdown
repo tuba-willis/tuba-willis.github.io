@@ -4,9 +4,9 @@ title:  "EMERGENCY COMMUNICATION SYSTEMS"
 date:   2014-12-10
 ---
 
-<p class="intro"><span class="dropcap">L</span>orem ipsum thor smash liege-bastogne-liege landbouwkrediet ombregt krabbe, rouleur derby is for lovers bonk giro gilbert bidon. Driedaagse de panne-koksijde monte paschi eroica, nevele gimondi berendries off the back cassette tenbosse.</p>
-
+<p class="intro">
 <h3>EMERGENCY COMMUNICATION SYSTEMS !  </h3>
 	<p>
-		An emergency communication system (ECS) is any system (typically, computer-based) that is organized for the primary purpose of supporting one-way and two-way communication of emergency messages between both individuals and groups of individuals.
+		<span class="dropcap">A</span>n emergency communication system (ECS) is any system (typically, computer-based) that is organized for the primary purpose of supporting one-way and two-way communication of emergency messages between both individuals and groups of individuals.
+	</p>
 	</p>
