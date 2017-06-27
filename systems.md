@@ -1,11 +1,10 @@
 ---
 layout: default
-cta: newsletter
-title: systems
+title: Emergency Communication systems
 permalink: /systems/
 ---
 <div class="post">
-	<h1>EMERGENCY COMMUNICATION SYSTEMS !  </h1>
+	<h3>EMERGENCY COMMUNICATION SYSTEMS !  </h3>
 	<p>
 		An emergency communication system (ECS) is any system (typically, computer-based) that is organized for the primary purpose of supporting one-way and two-way communication of emergency messages between both individuals and groups of individuals.
 	</p>
