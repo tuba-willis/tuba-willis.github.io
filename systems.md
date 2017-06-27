@@ -8,7 +8,7 @@ permalink: /systems/
 	<p>
 		An emergency communication system (ECS) is any system (typically, computer-based) that is organized for the primary purpose of supporting one-way and two-way communication of emergency messages between both individuals and groups of individuals.
 	</p>
-	<img src="{{ 'assets/img/ecs.jpeg' | prepend: site.baseurl }}" alt="emergency communication system (ECS)">
+	<img src="{{ '/assets/img/ecs.jpeg' | prepend: site.baseurl }}" alt="emergency communication system (ECS)">
  <h2> Problem</h2>
  <img src="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}" alt=""> 
   <p>
