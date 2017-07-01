@@ -46,3 +46,16 @@ Various individuals and organizations have suggested expanding the original thre
 <li>Variability:</li> Variation in the data leads to wide variation in quality. Additional resources may be needed to identify, process, or filter low quality data to make it more useful.
 <li>Value:</li> The ultimate challenge of big data is delivering value. Sometimes, the systems and processes in place are complex enough that using the data and extracting actual value can become difficult.
 </ul>
+
+<h4>Why Is Big Data Important?</h4>
+
+The importance of big data doesn’t revolve around how much data you have, but what you do with it. You can take data from any source and analyze it to find answers that enable:
+<ol>
+<li> cost reductions,</li><li> time reductions, </li><li> new product development and optimized offerings, and </li><li> smart decision making.</li> When you combine big data with high-powered analytics, you can accomplish business-related tasks such as:
+<ul>
+<li>Determining root causes of failures, issues and defects in near-real time.</li>
+<li>Generating coupons at the point of sale based on the customer’s buying habits.</li>
+<li>Recalculating entire risk portfolios in minutes.</li>
+<li>Detecting fraudulent behavior before it affects your organization.
+</ul>
+</ol>
