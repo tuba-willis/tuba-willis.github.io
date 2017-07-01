@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "EMERGENCY COMMUNICATION SYSTEMS"
+title:  "Emergency Communication Systems"
 date:   2017-05-20
 ---
 
 <p class="intro">
-<h3>EMERGENCY COMMUNICATION SYSTEMS !  </h3>
+<h3>Emergency Communication Systems </h3>
 
 		<span class="dropcap">A</span>n emergency communication system (ECS) is any system (typically, computer-based) that is organized for the primary purpose of supporting one-way and two-way communication of emergency messages between both individuals and groups of individuals.
 	</p>
