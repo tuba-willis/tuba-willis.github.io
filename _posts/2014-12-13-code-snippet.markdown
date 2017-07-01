@@ -32,6 +32,7 @@ The general categories of activities involved with big data processing are:
 <li>Computing and Analyzing data</li>
 <li>Visualizing the results</li>
 </ul>
+<h3>Change in Technologies and the Big Data Hype</h3>
 
 <h2>References</h2>
 https://www.digitalocean.com/community/tutorials/an-introduction-to-big-data-concepts-and-terminology#what-does-a-big-data-life-cycle-look-like last accessed on 12nd june 2017
