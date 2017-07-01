@@ -46,4 +46,3 @@ Various individuals and organizations have suggested expanding the original thre
 <li>Variability:</li> Variation in the data leads to wide variation in quality. Additional resources may be needed to identify, process, or filter low quality data to make it more useful.
 <li>Value:</li> The ultimate challenge of big data is delivering value. Sometimes, the systems and processes in place are complex enough that using the data and extracting actual value can become difficult.
 </ul>
-</div>
