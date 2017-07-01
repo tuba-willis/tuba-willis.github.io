@@ -11,7 +11,7 @@ title: What Is Big Data?
 <li>large datasets</li>
 <li>the category of computing strategies and technologies that are used to handle large datasets</li>
 In this context, "large dataset" means a dataset too large to reasonably process or store with traditional tooling or on a single computer. This means that the common scale of big datasets is constantly shifting and may vary significantly from organization to organization.
-
+<h2>Critical Analysis of Big Data</h2>
 <h3>Why Are Big Data Systems Different?</h3>
 The basic requirements for working with big data are the same as the requirements for working with datasets of any size. However, the massive scale, the speed of ingesting and processing, and the characteristics of the data that must be dealt with at each stage of the process present significant new challenges when designing solutions. The goal of most big data systems is to surface insights and connections from large volumes of heterogeneous data that would not be possible using conventional methods.
 
