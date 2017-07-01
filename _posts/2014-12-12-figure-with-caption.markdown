@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Big Data in Ugandan based context"
-date:   2014-12-12
+date:   2017-06-24
 ---
 
 
