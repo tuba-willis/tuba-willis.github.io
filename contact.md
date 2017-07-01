@@ -5,13 +5,14 @@ title: What Is Big Data?
 
 <div id="contact">
   <h1 class="pageTitle">Big Data</h1>
+  <h3>What Is Big Data?</h3>
  An exact definition of "big data" is difficult to nail down because projects, vendors, practitioners, and business professionals use it quite differently. With that in mind, generally speaking, big data is:
-
-large datasets
-the category of computing strategies and technologies that are used to handle large datasets
+<ul>
+<li>large datasets</li>
+<li>the category of computing strategies and technologies that are used to handle large datasets</li>
 In this context, "large dataset" means a dataset too large to reasonably process or store with traditional tooling or on a single computer. This means that the common scale of big datasets is constantly shifting and may vary significantly from organization to organization.
 
-Why Are Big Data Systems Different?
+<h3>Why Are Big Data Systems Different?</h3>
 The basic requirements for working with big data are the same as the requirements for working with datasets of any size. However, the massive scale, the speed of ingesting and processing, and the characteristics of the data that must be dealt with at each stage of the process present significant new challenges when designing solutions. The goal of most big data systems is to surface insights and connections from large volumes of heterogeneous data that would not be possible using conventional methods.
 
 In 2001, Gartner's Doug Laney first presented what became known as the "three Vs of big data" to describe some of the characteristics that make big data different from other data processing:
@@ -36,7 +37,7 @@ Data can be ingested from internal systems like application and server logs, fro
 
 The formats and types of media can vary significantly as well. Rich media like images, video files, and audio recordings are ingested alongside text files, structured logs, etc. While more traditional data processing systems might expect data to enter the pipeline already labeled, formatted, and organized, big data systems usually accept and store data closer to its raw state. Ideally, any transformations or changes to the raw data will happen in memory at the time of processing.
 </ol>
-Other Characteristics
+<h5>Other Characteristics<h5>
 
 Various individuals and organizations have suggested expanding the original three Vs, though these proposals have tended to describe challenges rather than qualities of big data. Some common additions are:
 <ul>
