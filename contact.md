@@ -37,7 +37,7 @@ Data can be ingested from internal systems like application and server logs, fro
 
 The formats and types of media can vary significantly as well. Rich media like images, video files, and audio recordings are ingested alongside text files, structured logs, etc. While more traditional data processing systems might expect data to enter the pipeline already labeled, formatted, and organized, big data systems usually accept and store data closer to its raw state. Ideally, any transformations or changes to the raw data will happen in memory at the time of processing.
 </ol>
-<img src="{{ '/assets/img/vs.jpg' | prepend: site.baseurl }}" alt="">
+<img src="{{ 'assets/img/vs.jpg' | prepend: site.baseurl }}" alt="">
 <h5>Other Characteristics</h5>
 
 Various individuals and organizations have suggested expanding the original three Vs, though these proposals have tended to describe challenges rather than qualities of big data. Some common additions are:
