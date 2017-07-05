@@ -4,7 +4,8 @@ title:  "How to build an API Endpoint for results query and access"
 date:   2017-07-07
 ---
 
-<p class="intro"><span class="dropcap">H</span>ow you would build an API Endpoint for UTAMU students results query and access.</p>
+<p class="intro"><span class="dropcap">
+I</span>n this blog i describe the pocess i would undertake to design an API Endpoint for UTAMU students results query and access</p>
 <h3>API design</h3>
 A well-designed web API should aim to support:
 <ol>
