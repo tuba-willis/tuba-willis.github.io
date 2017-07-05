@@ -18,8 +18,14 @@ While designing an API, one of the first things to consider is creating a style 
 <h4>Defining operations in terms of HTTP methods</h4>
 The HTTP protocol defines a number of methods that assign semantic meaning to a request. The common HTTP methods used by most RESTful web APIs are:
 <ul>
-<li>GET</li>, to retrieve a copy of the resource at the specified URI. The body of the response message contains the details of the requested resource.
-<li>POST</li>, to create a new resource at the specified URI. The body of the request message provides the details of the new resource. Note that POST can also be used to trigger operations that don't actually create resources.
-<li>PUT</li>, to replace or update the resource at the specified URI. The body of the request message specifies the resource to be modified and the values to be applied.
-<li>DELETE</li>, to remove the resource at the specified URI.
+<li>GET</li>To retrieve a copy of the resource at the specified URI. The body of the response message contains the details of the requested resource.
+<li>POST</li>To create a new resource at the specified URI. The body of the request message provides the details of the new resource. Note that POST can also be used to trigger operations that don't actually create resources.
+<li>PUT</li>To replace or update the resource at the specified URI. The body of the request message specifies the resource to be modified and the values to be applied.
+<li>DELETE</li>To remove the resource at the specified URI.
+<ul>
+In my design i would be considerate of the following characteristics of a well-designed API:
+<ul>
+<li>Easy to read and work with:</li> A well designed API will be easy to work with, and its resources and associated operations can easily understood by end consumers.
+<li>Hard to misuse:</li> Implementing and integrating with an API with good design will be a straightforward process, and writing incorrect code will be a less likely outcome.
+<li>Complete and concise:</li> A complete API will make it possible for developers to make full-fledged applications against the data you expose.
 <ul>
