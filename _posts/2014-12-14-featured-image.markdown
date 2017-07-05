@@ -22,7 +22,7 @@ The HTTP protocol defines a number of methods that assign semantic meaning to a 
 <li>POST</li>To create a new resource at the specified URI. The body of the request message provides the details of the new resource. Note that POST can also be used to trigger operations that don't actually create resources.
 <li>PUT</li>To replace or update the resource at the specified URI. The body of the request message specifies the resource to be modified and the values to be applied.
 <li>DELETE</li>To remove the resource at the specified URI.
-<ul>
+</ul>
 <h4>Characteristics of a well-designed API</h4>
 In my design i would be considerate of the following characteristics of a well-designed API:
 <ul>
