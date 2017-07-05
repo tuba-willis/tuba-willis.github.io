@@ -29,4 +29,4 @@ In my design i would be considerate of the following characteristics of a well-d
 <li>Easy to read and work with:</li> A well designed API will be easy to work with, and its resources and associated operations can easily understood by end consumers.
 <li>Hard to misuse:</li> Implementing and integrating with an API with good design will be a straightforward process, and writing incorrect code will be a less likely outcome.
 <li>Complete and concise:</li> A complete API will make it possible for developers to make full-fledged applications against the data you expose.
-<ul>
+</ul>
