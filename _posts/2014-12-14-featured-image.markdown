@@ -11,7 +11,6 @@ A well-designed web API should aim to support:
 <li>Platform independence</li> Client applications should be able to utilize the API that the web service provides without requiring how the data or operations that API exposes are physically implemented. This requires that the API abides by common standards that enable a client application and web service to agree on which data formats to use, and the structure of the data that is exchanged between client applications and the web service.
 <li>Service evolution</li> The web service should be able to evolve and add (or remove) functionality independently from client applications. Existing client applications should be able to continue to operate unmodified as the features provided by the web service change. All functionality should also be discoverable, so that client applications can fully utilize it.
 </ol>
-The purpose of this guidance is to describe the issues that you should consider when designing a web API.
 <h4>Decide the Style of the API</h4>
 While designing an API, one of the first things to consider is creating a style guide. This serve as a set of rules and best practices for creating controllers, defining routes, and other aspects of the API. It also provide answers to the big questions such as serialization of entities, mapping Data Transfer Objects (DTOs) if needed, repositories, domain services, database/entity validation, DTO validation, and any third party technologies used, it's maintained regularly and referred back to when needed.
 
