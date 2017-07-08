@@ -14,4 +14,13 @@ Social Engagement: You can interact with a variety of users via the Internet.
 Personalization: You can tailor your mobile computing to your individual needs.
 
 <h3>Mobile Computing current trends in Uganda and the opportunities herein</h3>
-
+<ul>
+<li>Healthcare in Uganda </li>
+Uganda, just like many other developing countries has a shortage of medical
+personnel, especially specialists such as pathologists, dermatologists, radiologists and
+cardiologists among others.<br>
+Telemedicine has become a method of choice for
+improved access to quality healthcare services world over. The
+technology, which has been used for decades in the developed
+world, is now being diffused to developing countries. 
+</ul>
